@@ -6,7 +6,7 @@ The code example requires you to create an app in developers.facebook.com accoun
 The detailed process can be found at [link](https://developers.facebook.com/docs/apps/register)
 
 ## Installation
-Step 1 > Download the Facebook SDK 3.0
-Step 2 > Goto developer.facebook.com and register your app to get your App ID.
-Step 3 > In strings.xml put your app id that you get from facebook and replace it.
+Step 1 > Download the Facebook SDK 3.0 <br/>
+Step 2 > Goto developer.facebook.com and register your app to get your App ID <br/>
+Step 3 > In strings.xml put your app id that you get from facebook and replace it <br/>
 Step 4 > Run the code. 
