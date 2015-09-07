@@ -3,7 +3,7 @@ The project is for android application login using Facebook authentication proce
 
 ## Code Example
 The code example requires you to create an app in developers.facebook.com account. Will advice to create a new account to create the application.
-The detailed process can be found at [a link](https://developers.facebook.com/docs/apps/register)
+The detailed process can be found at [link](https://developers.facebook.com/docs/apps/register)
 
 ## Installation
 Step 1 > Download the Facebook SDK 3.0
